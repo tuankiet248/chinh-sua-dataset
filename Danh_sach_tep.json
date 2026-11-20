@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "date": "2026-11-20",
+  "files": {
+    "00_Doc_truoc_Quy_uoc_chung.md": {
+      "size_bytes": 14778,
+      "sha256": "465eeaee1a3c2686c025851f1411634c1997b2c16785ed82de04d9089da1e9c1"
+    },
+    "01_Giao_viec_YOLO2.md": {
+      "size_bytes": 12373,
+      "sha256": "bfcc295a42d19a98f222df3db43afad608d79ccf5d0f0c5bbf307646cf3450d8"
+    },
+    "02_Giao_viec_OCR.md": {
+      "size_bytes": 20780,
+      "sha256": "6f4f0a7f91d373438298fa58f2a55de1f7e10c9fd3de38d193d3720b96d168dd"
+    },
+    "03_Checklist_nghiem_thu.md": {
+      "size_bytes": 10593,
+      "sha256": "60c9cecdeed47722b2872170b4b50697cc696c205842f3e6dbfb8bbb3c03c974"
+    },
+    "BAT_DAU_TU_DAY.md": {
+      "size_bytes": 1394,
+      "sha256": "65d442bebb64e33927936afc6fe2d32ea59533d76b2a13c6a861b28ab116f921"
+    },
+    "Checklist_nang_cap_notebook_bien_so.md": {
+      "size_bytes": 22547,
+      "sha256": "f8a1d7da0acf970674bae99d7601fc385ff05bb9db326d2754a3367913b3c05f"
+    },
+    "Mau_bang/anh_bien_goc.csv": {
+      "size_bytes": 139,
+      "sha256": "3bc65a3ab4dc7ee149e92c72770e4a6cef582728a3ec2dafbcc510ce5cd65527"
+    },
+    "Mau_bang/class_to_idx.json": {
+      "size_bytes": 345,
+      "sha256": "0fc1a95f146d75164e0e82f00b1e6033ac4e5d124cf38328e3518348ba349ed4"
+    },
+    "Mau_bang/ky_tu_goc.csv": {
+      "size_bytes": 235,
+      "sha256": "48ad9c2dd59cc8a7116700a0305befdcf232b6e8897d074b1898deb45e0af7a2"
+    },
+    "Mau_bang/manifest_ocr.csv": {
+      "size_bytes": 216,
+      "sha256": "c1b1e988b8d39c379a143843ec194455c0d831c1dee9d4917c41fcc40ea28050"
+    },
+    "Mau_bang/thong_tin_mau.json": {
+      "size_bytes": 677,
+      "sha256": "727af9377c0c70f90b58af8789513cdd0e9cb5f72c719bdf76d99bb4b21da01b"
+    },
+    "Tham_khao/Phan_tich_va_chuan_bi_du_lieu_bien_so.ipynb": {
+      "size_bytes": 108635,
+      "sha256": "1dcfa8c2509d17beb80d95442055b6dbcd006c62c5aeefe4f57041e26fc6d8ae"
+    }
+  }
+}

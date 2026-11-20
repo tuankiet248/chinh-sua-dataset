@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "status": "chi_la_mau_khong_co_du_lieu",
+  "csv_encoding": "utf-8-sig",
+  "delimiter": ",",
+  "source_line_index_base": 0,
+  "slot_index_base": 0,
+  "bbox_format": "xyxy_pixels_half_open_in_original_image_coordinates",
+  "unknown_character": "",
+  "boolean_values": [
+    "true",
+    "false"
+  ],
+  "class_to_idx": "class_to_idx.json",
+  "sources": [
+    "Roboflow",
+    "Winter2897",
+    "CCPD2019",
+    "VNLP"
+  ],
+  "notes": [
+    "CSV chi co tieu de, khong phai ket qua da chay.",
+    "Nhom/source mapping can xac minh tren nguon that.",
+    "original_slot_index chi dien neu xac dinh duoc vi tri, khong dung thu tu dong TXT thay the."
+  ]
+}
